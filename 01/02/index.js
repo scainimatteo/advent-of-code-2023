@@ -1,4 +1,5 @@
-import { input, testInput, stringToNumber, stringNumberMap } from './input.js';
+import { input, testInput } from './input.js';
+import { stringToNumber, stringNumberMap } from './models.js';
 
 let totalSum = 0;
 
