@@ -10,49 +10,14 @@ export const stringToNumber = {
 	'nine': 9,
 };
 
-export const stringNumberMap = {
-  0: [
-    'o',
-    't',
-    'f',
-    's',
-    'e',
-    'n',
-  ],
-  1: [
-    'on',
-    'tw',
-    'th',
-    'fo',
-    'fi',
-    'si',
-    'se',
-    'ei',
-    'ni',
-  ],
-  2: [
-    'one',
-    'two',
-    'thr',
-    'fou',
-    'fiv',
-    'six',
-    'sev',
-    'eig',
-    'nin',
-  ],
-  3: [
-    'thre',
-    'four',
-    'five',
-    'seve',
-    'eigh',
-    'nine',
-
-  ],
-  4: [
-    'three',
-    'seven',
-    'eight',
-  ]
+export const numberLength = {
+  'one': 3,
+	'two': 3,
+	'three': 5,
+	'four': 4,
+	'five': 4,
+	'six': 3,
+	'seven': 5,
+	'eight': 5,
+	'nine': 4,
 }
